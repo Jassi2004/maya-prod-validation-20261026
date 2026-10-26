@@ -1,0 +1,1 @@
+{"name":"maya-prod-validation-20261026","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test"}}
